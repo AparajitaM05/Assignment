@@ -1,0 +1,23 @@
+/*css for nav bar*/
+.header_area.main-menue.container-fluid.navbar.navbar-brand
+{
+    padding: 0 2rem 0 5rem;
+}
+.header_area.main-menue.container-fluid.navbar
+{
+    padding: 1rem 20rem;
+}
+.header_area.main-menue.container-fluid.nav-item.nav-link{
+    font-family: "Roboto", cursive;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.7rem;
+    color: black;
+}
+.navbar-brand d-none d-lg-inline-block
+{
+    weight: 100px;;
+    height:100 px;
+    background-color: aquamarine;
+    border-radius: 50%;
+}
